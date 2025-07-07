@@ -1,1 +1,1 @@
-Some of the line commited in readme
+Git is fetched from github
